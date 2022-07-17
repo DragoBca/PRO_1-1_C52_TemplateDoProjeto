@@ -9,8 +9,8 @@
     color: white;
 }
 body{
-    margin: 0px;
-    background-color:#f7f2f2;
+    margin: 5px;
+    background-color: black;
     
 }
 a{
@@ -23,8 +23,8 @@ a:link{
 /*a:old*/
 /*a:clicked*/
 /*a:seen{*/
-/*a:visited{*/
-    color: #ffffff;
+a:visited{
+    color: purple;
 }
 
 .bodyimg{
@@ -43,10 +43,10 @@ a:link{
     color:#f7f2f2;
     font-family: fantasy;
     font-size: 30px;
-    width: 1600px;
+    width: 800px;
     position: absolute;
     top:40%;
-    left:80%;
+    left:40%;
     transform: translate(-40%, -40%);
 }
 .grid{
@@ -71,7 +71,7 @@ a:link{
     
 }
 
-/* .origami:hover{ */
+ .origami:hover{ 
 /*.origami : mouseover{*/
 /*.origami:link{*/
 /*origami:hover{*/
